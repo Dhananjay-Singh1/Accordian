@@ -2,6 +2,7 @@
 Create interactive and dynamic accordion elements website with this easy-to-use JavaScript project. This project provides you with a simple way to implement accordion functionality, allowing you to display collapsible content sections that users can expand or collapse at their convenience.
 
 # Preview
+You can access it here: https://dhananjay-singh1.github.io/Accordian/
 
 ## Features
 
